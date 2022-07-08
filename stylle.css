@@ -1,0 +1,43 @@
+body{
+    background-color: rgba(173, 170, 156, 0.705);
+}
+header{
+    text-align: center;
+    
+    border-radius: 40px;
+}
+nav{
+    text-align: center;
+    align-items: center; 
+    
+}
+.primeiro{
+    
+    display: flex;
+    text-align: justify;
+    justify-content: space-evenly;
+    border-radius: 40px;
+}
+img{
+    border-radius: 200px;
+}
+aside{
+    display: flex;
+    float: left;
+    padding-left: 60px;
+}
+section{
+    padding-right: 60px;
+    float: right;
+    text-align: center;
+    justify-content: right;
+}
+button{
+    background-color: black;
+    color: white;
+    border-radius: 60px;
+}
+footer{
+    text-align: center;
+    padding-top: 400px;
+}
